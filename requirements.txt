@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+sqlalchemy[asyncio]
+asyncpg
+redis
+websockets
+yfinance
+ta
+pydantic
+requests
+websockets
